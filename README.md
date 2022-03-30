@@ -19,6 +19,8 @@ Qual desafio escolher? Qualquer um! O importante é seguir as seguintes instruç
 2. Adicione uma captura da correção (testes) em formato de imagem.
 3. Adicione um arquivo README com:
 
+- Nome Completo
+- Linkedin
 - A captura (imagem) dos testes passando na plataforma
 - Link do desafio realizado
 - Comentários (opcional)
@@ -31,6 +33,9 @@ Qual desafio escolher? Qualquer um! O importante é seguir as seguintes instruç
 ---
 
 ## Exemplo
+
+Bruno Freitas
+https://www.linkedin.com/in/brunosfreitas/
 
 Captura dos testes:
 
