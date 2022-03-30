@@ -24,7 +24,7 @@ Qual desafio escolher? Qualquer um! O importante é seguir as seguintes instruç
 - Comentários (opcional)
 
 4. Adicione um arquivo com extensão adequada (ex.: index.js) com sua resposta.
-5. Adicione @brunosfreitas como colaborador de seu repositório quando tiver finalizado.
+5. Adicione @brunosfreitas e @andrelom como colaboradores de seu repositório quando tiver finalizado.
 
 > **Importante:** Seja o mais declarativo possível, deixando bem claro o funcionamento do seu algoritmo. Use a abordagem que tiver mais familiaridade (adição de comentários, organização de escopos e nomeação de dados, etc). Confira o exemplo neste repositório.
 
